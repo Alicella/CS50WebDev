@@ -1,0 +1,18 @@
+repo_name: Alicella/CS50WebDev
+report_id: 5124d5d0738d0e185c3d7a3a8668f914
+repo_type: Public
+timestamp: '2023-11-09T18:14:29+00:00'
+requested_by: Alicella
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
